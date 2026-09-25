@@ -1,3 +1,3 @@
 # tasks-to-do-list
 
-crud em python
+to_do_list basico, apenas para entendimento do flask obs: nao tem banco de dados
