@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+venv/
+__pycache__/
+*.pyc
 .postman/
 	postman/
 
